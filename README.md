@@ -5,6 +5,7 @@
 [![](https://img.shields.io/badge/discord.js-v14.7.1-blue.svg?logo=npm)](https://github.com/discordjs)
 [![Stars](https://img.shields.io/github/stars/Cabot-bot/Cabot-bot.svg)](https://github.com/Cabot-bot/Cabot-bot)
 [![License](https://img.shields.io/github/license/Cabot-bot/Cabot-bot.svg)](https://github.com/Cabot-bot/Cabot-bot/blob/master/LICENSE)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R5R5GULN8)
 
 > The Official Open-Source Cabot Discord Bot with all commands and API connections used by 200K+ users and more than 1500+ servers.
 Cabot is an open source occult informational Discord bot coded in JavaScript with [Discord.js](https://discord.js.org) by [Witchie](https://github.com/WitchieXCabot).  
@@ -44,6 +45,7 @@ Cabot has a lot of features, with **3 main categories**:
 <br><br>
 
 * **[Cabot Website](https://cabot-bot.xyz/)**
+* **[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R5R5GULN8)**
 
 ## Installation 
 The Installation guide can be found in the [Installation.md](https://github.com/Cabot-bot/Cabot-bot/blob/master/Installation.md) file. 

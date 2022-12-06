@@ -49,7 +49,7 @@ Cabot has a lot of features, with **3 main categories**:
 The Installation guide can be found in the [Installation.md](https://github.com/Cabot-bot/Cabot-bot/blob/master/Installation.md) file. 
 
 ## License ©️
-Karma Bot is licensed under the GNU Affero General Public License v3.0. See the file `LICENSE` for more information. If you plan to use any part of this source code in your own bot, Include some form of public credit somewhere.
+Cabot is licensed under the GNU Affero General Public License v3.0. See the file `LICENSE` for more information. If you plan to use any part of this source code in your own bot, Include some form of public credit somewhere.
 
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
